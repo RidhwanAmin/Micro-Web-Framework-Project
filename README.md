@@ -20,12 +20,12 @@ Story 2.2 <br>
 In order to use my uploaded images at different sizes (thumbnails):
 As an Anonymous user,
 As an Anonymous user, I want to have thumbnails returned for any uploaded images which sizes are
-equal to or larger than 128px by 128px
+equal to or larger than 128px by 128px <br>
 ● If the uploaded image is smaller than 128px by 128px, no thumbnails should be generated.
-Just return the original image as the thumbnail.
+Just return the original image as the thumbnail.<br>
 ● If the uploaded image is equal to or larger than 128px by 128px, two thumbnails should be
 generated - one 32px wide and the other 64px wide. Thumbnails must retain the original
 aspect ratio. For example, an uploaded image of 128 px by 160px should generate
-thumbnails 32 px by 40px and 64px by 80px.
+thumbnails 32 px by 40px and 64px by 80px. <br>
 ● Thumbnails must respect the uploaded image’s aspect ratio.
 
