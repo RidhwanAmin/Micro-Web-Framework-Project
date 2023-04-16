@@ -1,4 +1,4 @@
-# Service-Rocket-Micro-Web-Framework-Challenge
+# Micro-Web-Framework-Challenge
 
 Run using "npm run dev"
 
